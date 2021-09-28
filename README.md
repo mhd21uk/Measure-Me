@@ -16,7 +16,9 @@ Files in this repo:
 
 - Trackbars.ipynb : Jupyter Notebook used for adjusting parameters in real-time to play around Computer Vision concepts. I mainly used it to find the rectangular shaped card on the A4 paper
 
-- Measure-Me-Simple.ipynb : Jupyter Notebook to apply the 2nd method (user pinpointing the top and bottom points). Explained more thoroughly in the medium article and via comments inside the notebook.
+- Measure-Me-Simple.ipynb : Jupyter Notebook to apply the 2nd method (user pinpointing the top and bottom points). Explained more thoroughly in the medium article and via comments inside the notebook
+
+- Measure-Me : Main Python notebook to be uploaded to and used at Google Colab. Make sure to double check the directories at the beginning.
 
 - CV_Example.png : sample image file to play around and test the trackbars in Trackbars.ipynb
 
